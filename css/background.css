@@ -1,0 +1,34 @@
+html,body{
+    margin: 0;
+    height: :100%;
+  }
+
+  body{
+      background-image: url(../images/box-img2.jpg);
+      background-size: cover;
+  }
+  
+.homepage{
+     width: 50%;
+     height: auto;
+     background-color: rgba(225, 236, 236, 0.747);
+     margin: auto;
+     text-align: center;
+}
+
+.logo{
+    color: #3391E7;
+    border-color:  #3391E7;
+    
+}
+.logo:hover{
+    background-size: cover;
+    font-size: 20px;
+    background-color: #3391E7;
+}
+.dohomepage{
+    width: 50%;
+    height: auto;
+    background-color: rgba(131, 43, 8, 0.747);
+    margin: auto;
+    text-align: center;
